@@ -1,10 +1,10 @@
 [project]
-name = "russian-nlp-sandbox"
+name = "trankit-sandbox"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-# requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     "six>=1.17.0",
-    "trankit>=1.1.1",
+    "trankit==1.1.1",
 ]
